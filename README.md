@@ -1,4 +1,4 @@
-# 🎯 Phishing Email Analysis – Cybersecurity Internship Task
+# 🎯 Phishing Email Analysis 
 
 ## 🎯 Objective  
 Analyze a phishing email sample to identify common **indicators of compromise** and understand **attacker tactics**.
